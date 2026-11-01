@@ -1,0 +1,21 @@
+{
+  "name": "harvee-technologies-qa-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "report:allure": "npx allure generate ./allure-results --clean && npx allure open ./allure-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.6",
+    "allure-commandline": "^2.27.0",
+    "allure-playwright": "^2.10.0",
+    "dotenv": "^16.0.0"
+  }
+}

@@ -1,0 +1,22 @@
+<testsuites id="" name="" tests="9" failures="0" skipped="0" errors="0" time="23.144876">
+<testsuite name="checkout.spec.js" timestamp="2026-10-29T03:49:51.542Z" hostname="chromium" tests="9" failures="0" skipped="0" time="92.318" errors="0">
+<testcase name="Sauce Demo Automation - Fixtures &amp; Test Steps Approach › TC01 Standard user logs in" classname="checkout.spec.js" time="7.098">
+</testcase>
+<testcase name="Sauce Demo Automation - Fixtures &amp; Test Steps Approach › TC02 Locked out user login error" classname="checkout.spec.js" time="7.183">
+</testcase>
+<testcase name="Sauce Demo Automation - Fixtures &amp; Test Steps Approach › TC05 Sort products by price low to high" classname="checkout.spec.js" time="8.39">
+</testcase>
+<testcase name="Sauce Demo Automation - Fixtures &amp; Test Steps Approach › TC08 Add and remove items, verify cart badge" classname="checkout.spec.js" time="10.707">
+</testcase>
+<testcase name="Sauce Demo Automation - Fixtures &amp; Test Steps Approach › TC12 Full checkout total calculation" classname="checkout.spec.js" time="15.823">
+</testcase>
+<testcase name="Sauce Demo Automation - Fixtures &amp; Test Steps Approach › TC14 Checkout Error - Missing First Name" classname="checkout.spec.js" time="14.648">
+</testcase>
+<testcase name="Sauce Demo Automation - Fixtures &amp; Test Steps Approach › TC15 Checkout Error - Missing Last Name" classname="checkout.spec.js" time="12.943">
+</testcase>
+<testcase name="Sauce Demo Automation - Fixtures &amp; Test Steps Approach › TC16 Checkout Error - Missing Postal Code" classname="checkout.spec.js" time="13.074">
+</testcase>
+<testcase name="Sauce Demo Automation - Fixtures &amp; Test Steps Approach › TC19 Direct access to inventory logged out" classname="checkout.spec.js" time="2.452">
+</testcase>
+</testsuite>
+</testsuites>
